@@ -53,6 +53,9 @@ Completing the remaining sprints, conducting extensive testing, collecting user 
 ### DEMO 
 https://youtu.be/UftdRPYlFt0 
 
+you can click this link to try:
+https://c77bee99-afef-4e4c-a6b1-62c1836210ef-00-19fnhu790vywn.sisko.replit.dev/
+
 ### Environments of the software development and running 
 We use the html, css, java script in replit  for the development environment and running. 
 
