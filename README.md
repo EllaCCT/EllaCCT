@@ -32,7 +32,7 @@ P2204992 Ella (codeing,testing demo)
 
 P2215216 Fiona(codeing,testing demo) 
 
-P2204725 Mary(write readme,making demo) 
+P2204725 Mary(write readme,making video) 
 
 ### Schedule
 Week1: planning the snake game structure, for example, how the snake moves, how the snake eats, the levels for the games, the score... 
